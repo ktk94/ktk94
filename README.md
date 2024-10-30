@@ -63,5 +63,5 @@
 ---
 ## 📫 **연락처 및 링크**
 
-[![이메일](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ktaek94@gmail.com)
+[![이메일](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mail:ktaek94@gmail.com)
 [![블로그](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=wordpress&logoColor=white)](https://velog.io/@ktaek94/posts)
